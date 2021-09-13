@@ -1,0 +1,17 @@
+{
+  "name": "project-franc",
+  "version": "1.0.0",
+  "description": "language finder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "backtofayton",
+  "license": "ISC",
+  "dependencies": {
+    "color": "^4.0.0",
+    "colors": "^1.4.0",
+    "franc": "^5.0.0",
+    "langs": "^2.0.0"
+  }
+}
